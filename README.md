@@ -33,6 +33,18 @@ Obsidian涅槃手册_完整包/
 
 ---
 
+## 🎯 Examples
+
+This handbook has been battle-tested in real projects. See the live demo below for a full implementation of the entire pipeline:
+
+| Project | Stack | What It Demonstrates |
+|---------|-------|---------------------|
+| [**slider_live_demo**](https://github.com/Jup33Q/slider_live_demo) | Phoenix 1.8 + LiveView 1.1 + SQLite3 + Canvas Hooks | End-to-end migration from Marp HTML to interactive LiveView slides, including BubbleQuilt background, keyboard navigation, cookie-based pagination memory, and panel hover interactions |
+
+> 🔗 The `slider_live_demo` project is the **reference implementation** of this handbook. Every stage — from Obsidian note preprocessing to WSL deployment to interactive background injection — is verified there.
+
+---
+
 ## 🚀 Quick Start
 
 ### For Chinese Readers
