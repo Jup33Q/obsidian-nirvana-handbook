@@ -1,5 +1,10 @@
 # 🔥 Obsidian Nirvana Handbook (完整包 / Complete Package)
 
+![GitHub stars](https://img.shields.io/github/stars/Jup33Q/obsidian-nirvana-handbook?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Phoenix LiveView](https://img.shields.io/badge/Phoenix%20LiveView-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+
 [English](Obsidian_Nirvana_Handbook.md) | [中文](Obsidian%20%E6%B6%85%E6%A7%83%E6%89%8B%E5%86%8C.md)
 
 > **One-sentence summary**: Turn dead text in Obsidian into living presentations, then infuse them with the soul of LiveView — let your notes live forever in the browser.
@@ -40,6 +45,7 @@ This handbook has been battle-tested in real projects. See the live demo below f
 | Project | Stack | What It Demonstrates |
 |---------|-------|---------------------|
 | [**slider_live_demo**](https://github.com/Jup33Q/slider_live_demo) | Phoenix 1.8 + LiveView 1.1 + SQLite3 + Canvas Hooks | End-to-end migration from Marp HTML to interactive LiveView slides, including BubbleQuilt background, keyboard navigation, cookie-based pagination memory, and panel hover interactions |
+| [**nirvana_demo**](https://github.com/Jup33Q/nirvana_demo) | Phoenix 1.8.7 + LiveView 1.1 + SQLite3 + Canvas Hooks + ECharts | Full Nirvana slide deck implementation with multi-background switching (Aurora, BubbleQuilt, GeometricMatrix, IDE Code Wave), ECharts data visualization, keyboard navigation, and pagination memory |
 
 > 🔗 The `slider_live_demo` project is the **reference implementation** of this handbook. Every stage — from Obsidian note preprocessing to WSL deployment to interactive background injection — is verified there.
 
